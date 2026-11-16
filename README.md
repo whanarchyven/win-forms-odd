@@ -8,7 +8,7 @@
 
 | Путь | Назначение |
 |---|---|
-| `KioskStand-Catalysis/` | готовый стенд Catalysis (задача Blue Cap, шапка «Dr.Sarha | catalysis»): `KioskStand.exe`, `config.json`, `assets/` |
+| `KioskStand-Catalysis/` | готовый стенд Catalysis (задача Blue Cap, шапка Dr.Sarha + catalysis): `KioskStand.exe`, `config.json`, `assets/` |
 | `KioskStand-Dermedic/` | готовый стенд Dermedic (2 задачи: розацеа, мелазма) |
 | `src/` | общий исходный код приложения |
 | `build.bat` | сборка `KioskStand.exe` и копирование его в обе папки стендов |
