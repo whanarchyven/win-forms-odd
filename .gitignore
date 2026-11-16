@@ -1,0 +1,17 @@
+# runtime data of stands (contains participant contacts)
+results.json
+results.json.bak
+results.json.tmp
+results.json.corrupt-*
+**/results.json*
+**/exports/
+**/error.log
+
+# build output (the exe is copied into the stand folders by build.bat)
+src/bin/
+
+# old single-stand folder, replaced by KioskStand-Catalysis / KioskStand-Dermedic
+KioskStand/
+
+Thumbs.db
+desktop.ini
