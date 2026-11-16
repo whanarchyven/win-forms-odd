@@ -8,7 +8,9 @@
     "background": "assets/background.png",
     "fontFamily": "assets/fonts/#Inter",
     "header": [
-      { "image": "assets/logo_drsarha.png", "x": 1163, "y": 93 }
+      { "image": "assets/logo_drsarha.png", "x": 1046, "y": 93 },
+      { "image": "assets/divider.png", "x": 1323, "y": 86 },
+      { "image": "assets/logo_catalysis.png", "x": 1370, "y": 60 }
     ],
     "idleTimeoutSeconds": 180,
     "adminPin": "2580",

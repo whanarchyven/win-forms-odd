@@ -8,7 +8,7 @@
 
 | Путь | Назначение |
 |---|---|
-| `KioskStand-Catalysis/` | готовый стенд Catalysis (задача Blue Cap): `KioskStand.exe`, `config.json`, `assets/` |
+| `KioskStand-Catalysis/` | готовый стенд Catalysis (задача Blue Cap, шапка «Dr.Sarha | catalysis»): `KioskStand.exe`, `config.json`, `assets/` |
 | `KioskStand-Dermedic/` | готовый стенд Dermedic (2 задачи: розацеа, мелазма) |
 | `src/` | общий исходный код приложения |
 | `build.bat` | сборка `KioskStand.exe` и копирование его в обе папки стендов |
@@ -21,7 +21,7 @@
 | Файл | Назначение |
 |---|---|
 | `config.json` | **вся настройка**: задачи, тексты, логотипы, специализации, ссылки и QR, цвета, фон |
-| `assets/` | фон, логотипы (`logo_drsarha.png`, `logo_dermedic.png`, `divider.png`), шрифты Inter, персонажи (`decor/`), картинки к задачам |
+| `assets/` | фон, логотипы (`logo_drsarha.png`, `logo_catalysis.png` или `logo_dermedic.png`, `divider.png`), шрифты Inter, персонажи (`decor/`), картинки к задачам |
 | `results.json` | создаётся автоматически: прохождения и анкеты (в git не попадает) |
 | `exports/` | выгрузки Excel из панели организатора (в git не попадает) |
 
