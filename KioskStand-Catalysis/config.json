@@ -63,7 +63,7 @@
     "question.wrong": "Неверно. Правильный ответ отмечен зелёным",
     "question.close": "Закрыть",
 
-    "done.title": "Вы прошли обе клинические задачи",
+    "done.title": "Прошли задачу",
     "done.subtitle": "Зарегистрируйтесь, чтобы принять участие\nв розыгрыше призов от Catalysis",
     "done.score": "Правильных ответов: {correct} из {total}",
     "done.button": "Зарегистрироваться",
@@ -249,8 +249,8 @@
     "linksPadding": 140,
     "qrSize": 350,
     "links": [
-      { "label": "MAX", "url": "https://max.ru/", "qrImage": null },
-      { "label": "Telegram", "url": "https://t.me/", "qrImage": null }
+      { "label": "MAX", "url": "https://max.ru/channel_catalysis", "qrImage": null },
+      { "label": "Telegram", "url": "https://t.me/catalysisexpert", "qrImage": null }
     ]
   }
 }

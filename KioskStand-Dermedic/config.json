@@ -112,8 +112,8 @@
     "err.closed": "Регистрация на розыгрыш закрыта",
     "err.ok": "Понятно",
     "final.title": "Вы зарегистрированы!",
-    "final.subtitle": "Подпишитесь на канал Dermedic в MAX или Telegram.\nОтсканируйте QR-код нужной платформы",
-    "final.note": "**Результаты** розыгрыша опубликуем в каналах Dermedic **в 15:00**",
+    "final.subtitle": "Подпишитесь на канал Dermedic в Telegram или откройте каталог продукции.\nОтсканируйте нужный QR-код",
+    "final.note": "",
     "final.button": "Завершить",
     "keyboard.done": "Готово"
   },
@@ -377,13 +377,13 @@
     "qrSize": 350,
     "links": [
       {
-        "label": "MAX",
-        "url": "https://max.ru/",
+        "label": "Telegram",
+        "url": "https://t.me/+EINT7m61Das1NTQy",
         "qrImage": null
       },
       {
-        "label": "Telegram",
-        "url": "https://t.me/",
+        "label": "Каталог продукции",
+        "url": "https://disk.360.yandex.ru/i/DYWGHTzOXuXiLg",
         "qrImage": null
       }
     ]
